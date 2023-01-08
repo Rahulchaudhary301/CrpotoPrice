@@ -1,0 +1,13 @@
+
+.time{
+    text-align: center;
+    font-size: 40px;
+    height: 90px;
+    background: #000;
+    font-weight:bold;
+    color: rgb(43, 255, 0);
+    padding-top: 10px;
+    border-radius: 8px;
+    
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
